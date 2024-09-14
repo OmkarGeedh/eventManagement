@@ -28,5 +28,9 @@ Our event management system is built on a microservice architecture. This allows
 <h3>Install dependencies</h3>
 <p>Before starting the servers, make sure to install the dependencies by running the command:</p>
 <pre><code class="language-bash">npm install</code></pre>
-<b>in all three folders: client, server, and developer.</b>
+<b>in all  folders: client, server.</b>
 <p>Set up environment variables</p>
+<p>For the client-side:</p>
+<pre><code class="language-arduino">npm run dev</code></pre>
+<p>For the server-side:</p>
+<pre><code>nodemon index.js</code></pre>
