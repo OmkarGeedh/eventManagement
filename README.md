@@ -23,3 +23,10 @@ Our event management system is built on a microservice architecture. This allows
 <br>
 <br>
 <h1>🚀 Getting Started (Locally)</h1>
+<h3>Navigate to the project's root directory</h3>
+<p>Once you have downloaded or cloned the repository, navigate to the project's root directory. The project consists of three folders: client, server, and developer.</p>
+<h3>Install dependencies</h3>
+<p>Before starting the servers, make sure to install the dependencies by running the command:</p>
+<pre><code class="language-bash">npm install</code></pre>
+<b>in all three folders: client, server, and developer.</b>
+<h3>Set up environment variables</h3>
