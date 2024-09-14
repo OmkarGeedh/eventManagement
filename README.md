@@ -29,4 +29,4 @@ Our event management system is built on a microservice architecture. This allows
 <p>Before starting the servers, make sure to install the dependencies by running the command:</p>
 <pre><code class="language-bash">npm install</code></pre>
 <b>in all three folders: client, server, and developer.</b>
-<h3>Set up environment variables</h3>
+<p>Set up environment variables</p>
